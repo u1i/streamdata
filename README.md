@@ -16,7 +16,7 @@
 
 [API Manager](https://localhost:8075/home) (apiadmin / Axway123)
 
-[API Gateway](https://localhost:8090/home) (admin / changeme)
+[API Gateway](https://localhost:8090) (admin / changeme)
 
 [API Portal](https://localhost/) (uli / Axway123)
 
